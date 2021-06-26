@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelouahedd&label=Profile%20views&color=0e75b6&style=flat" alt="abdelouahedd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelouahedd" alt="abdelouahedd" /></a> </p>
-
 - 🔭 I’m currently working on Innova sante **web application for clinic management**
 
 - 🌱 I’m currently learning **GO,k8s,microservices**
@@ -17,16 +15,12 @@
 
 - 📫 How to reach me **ennouriabdelouahed@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/abdelouahedd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abdelouahedd" height="30" width="40" /></a>
-<a href="https://twitter.com/abdelouahed en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdelouahed en" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdelouahed ennouri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelouahed ennouri" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/abdelouahed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdelouahed" height="30" width="40" /></a>
+<a href="https://twitter.com/AbdelouahedEn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdelouahed en" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdelouahed-ennouri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelouahed ennouri" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9725016/abdelouahed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdelouahed" height="30" width="40" /></a>
 <a href="https://discord.gg/abdelouahed#2921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abdelouahed#2921" height="30" width="40" /></a>
 </p>
 
@@ -36,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelouahedd&show_icons=true&locale=en&layout=compact" alt="abdelouahedd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelouahedd&show_icons=true&locale=en" alt="abdelouahedd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelouahedd&" alt="abdelouahedd" /></p>
