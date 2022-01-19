@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelouahedd&label=Profile%20views&color=0e75b6&style=flat" alt="abdelouahedd" /> </p>
 
-- 🔭 I’m currently working on Berexia as **software engineering**
+- 🔭 I’m currently working at Berexia as **software engineering**
 
 - 🌱 I’m currently learning **Networking,Shell**
 
